@@ -1,7 +1,7 @@
 - 👋 Oi, me chamo Elias
 - 💞️ Aprendendo **React**
 - 👀 Estou em busca do primeiro emprego como **desenvolvedor frontend**
-- 🤌 Meu outro github: EliasVasques
+- 🤌 Meu outro github: <a href="https://github.com/EliasVasques/EliasVasques">EliasVasques</a>
 - 📫 Contate-me no email: eliasvasques74@gmail.com
 
 <div>
