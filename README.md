@@ -1,4 +1,4 @@
-### Hi there 👋, Olá, me chamo Elias
+### 👋 Olá, me chamo Elias
 #### Aprendendo React
 Estou a procura do meu primeiro emprego como desenvolvedor, buscando uma vaga de frontend. Estou estudando React, criando meu portifólio com variados projetos, sempre buscando aprender algo novo. Dê uma olhada, vai achar coisas interessantes aqui. **#OpenToWork**
 
