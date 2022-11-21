@@ -8,7 +8,7 @@ Skills: JS / HTML / CSS / REACT / TYPESCRIPT  / REDUX / STYLED-COMPONENTS
 - 🌱 Estou aprendendo **Material UI** 
 - 📫 Meu **email**: eliasvasques74@gmail.com 
 - 🗣 **Inglês** Intermediário (B2)
-- 🤌 Mais projetos no meu **outro Github**: <a href="https://github.com/EliasVasques/EliasVasques">EliasVasques</a>
+- 🤌 Mais projetos no meu **outro Github**: <a href="https://github.com/EliasVasques">EliasVasques</a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elias-ReactDeveloper)
