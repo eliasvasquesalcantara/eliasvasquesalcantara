@@ -2,7 +2,7 @@
 #### Aprendendo React
 Estou a procura do meu primeiro emprego como desenvolvedor, buscando uma vaga de frontend. Estou estudando React, criando meu portifólio com variados projetos, sempre buscando aprender algo novo. Dê uma olhada, vai achar coisas interessantes aqui. **#OpenToWork**
 
-Skills: JS / HTML / CSS / REACT / TYPESCRIPT  / REDUX / STYLED-COMPONENTS
+Skills: JS / HTML / CSS / REACT / TYPESCRIPT  / REDUX / STYLED-COMPONENTS / MATERIAL-UI
 
 - 🔭 Estou trabalhando agora em **Social Mídia UI em React** 
 - 🌱 Estou aprendendo **Material UI** 
