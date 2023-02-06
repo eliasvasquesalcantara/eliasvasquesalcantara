@@ -1,11 +1,11 @@
 ### 👋 Olá, me chamo Elias
-#### Aprendendo React
-Estou a procura do meu primeiro emprego como desenvolvedor, buscando uma vaga de frontend. Estou estudando React, criando meu portifólio com variados projetos, sempre buscando aprender algo novo. Dê uma olhada, vai achar coisas interessantes aqui. **#OpenToWork**
+#### Full Stack developer
+Estou atualmente trabalhando como desnvolvedor FullStack desenvolvendo uma aplicação com NextJs(React) no frontend, e NestJs no backend, usando como banco de dados Datastore, do google.
 
-Skills: JS / HTML / CSS / REACT / TYPESCRIPT  / REDUX / STYLED-COMPONENTS / MATERIAL-UI
+Skills: React / NextJs / Redux / Material UI / Typescript / NestJs / ExpressJs / Jest / Datastore / MongoDB 
 
-- 🔭 Estou trabalhando agora em **Social Mídia UI em React** 
-- 🌱 Estou aprendendo **Material UI** 
+- 🔭 Estou trabalhando como **Full-stack developer** 
+- 🌱 Estou aprendendo **Next Js** 
 - 📫 Meu **email**: eliasvasques74@gmail.com 
 - 🗣 **Inglês** Intermediário (B2)
 - 🤌 Mais projetos no meu **outro Github**: <a href="https://github.com/EliasVasques">EliasVasques</a>
