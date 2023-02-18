@@ -1,6 +1,6 @@
 ### 👋 Olá, me chamo Elias
-#### Full Stack developer
-Estou atualmente trabalhando como desnvolvedor FullStack desenvolvendo uma aplicação com NextJs(React) no frontend, e NestJs no backend, usando como banco de dados Datastore, do google.
+#### Full Stack developer 
+Estou atualmente trabalhando como desenvolvedor FullStack desenvolvendo uma aplicação com NextJs(React) no frontend, e NestJs no backend, usando como banco de dados Datastore, do google.
 
 Skills: Javascript / Typescript / NextJs / React / Material UI  / NestJs / ExpressJs / Jest / GCloud / MongoDB / Docker
 
