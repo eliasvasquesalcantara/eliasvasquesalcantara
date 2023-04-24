@@ -14,8 +14,8 @@ Skills: Javascript / Typescript / NextJs / React / Material UI  / NestJs / Expre
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elias-ReactDeveloper)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eliasvasquesdev/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-ReactDeveloper)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elias-ReactDeveloper&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasvasquesalcantara)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasvasquesalcantara&show_icons=true)  
   
  
 <div style="display: inline_block"><br>
