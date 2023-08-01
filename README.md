@@ -1,7 +1,6 @@
 ### 👋 Olá, me chamo Elias
 #### Full Stack developer 
-Estou atualmente trabalhando como desenvolvedor FullStack desenvolvendo uma aplicação com NextJs(React) no frontend, e NestJs no backend, usando como banco de dados Datastore, do google.
-
+Estou atualmente trabalhando como desenvolvedor FullStack desenvolvendo uma aplicação com NextJs(React) no frontend, e NestJs no backend, usando como banco de dados Datastore, do google. [Veja meu portfolio](https://eliasvasquesdev.netlify.app/)
 
 ##### Principais tecnologias
 <div style="display: inline_block">
@@ -19,8 +18,8 @@ Estou atualmente trabalhando como desenvolvedor FullStack desenvolvendo uma apli
 - ❤️ Apaixonado por REACT e aprendendo UI DESIGN
 - 🇺🇸 Buscando fluência no INGLÊS
 
+eliasvasques74@gmail.com | [Linkedin](https://www.linkedin.com/in/eliasvasquesdev/) | outro [GitHub](https://github.com/EliasVasques) | [Portfolio](https://eliasvasquesdev.netlify.app/)
 
-eliasvasques74@gmail.com | [Linkedin](https://www.linkedin.com/in/eliasvasquesdev/) | outro [GitHub](https://github.com/EliasVasques)
   
 ##### Outras tecnologias
 <div style="display: inline_block">
